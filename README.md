@@ -1,7 +1,11 @@
 ## Hi there 👋
 I'm Venus Ng
-- [x] Immersive Media & Game Design (Ngee Ann Polytechnic)
-- [ ] Computer Engineering (Nanyang Technological University)
+- [x] Immersive Media & Game Design (Ngee Ann Polytechnic) - Diploma
+- [x] Computer Engineering (Nanyang Technological University) - Undergraduate
+- [x] Frontend Developer in [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)  [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+- [x] Game Developer in [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+- [x] User Interface / User Experience (UI/UX) in [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+
 ## Languages 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
