@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm Venus Ng
+- [x] Immersive Media & Game Design (Ngee Ann Polytechnic)
+- [ ] Computer Engineering (Nanyang Technological University)
 ## Languages 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
